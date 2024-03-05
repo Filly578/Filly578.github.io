@@ -26,4 +26,8 @@ li a:hover {
     background-color: powderblue;
 }
 
-.youtube_vid{width: 420px; height: 315;}
+.slideshow_pics{
+    width: 400px;
+    height: 300px;
+    align-items: center;
+}
